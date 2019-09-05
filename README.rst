@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpsycopg2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpsycopg2?ref=badge_shield)
+
 psycopg2 - Python-PostgreSQL Database Adapter
 =============================================
 
@@ -72,3 +74,7 @@ production it is advised to use the package built from sources.
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/psycopg/psycopg2?branch=master&svg=true
     :target: https://ci.appveyor.com/project/psycopg/psycopg2/branch/master
     :alt: Windows build status
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpsycopg2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpsycopg2?ref=badge_large)
